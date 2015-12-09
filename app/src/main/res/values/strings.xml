@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Client</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_bar_text">Flickr Photo Feed</string>
+    <string name="image_title"></string>
+    <string name="image_desc">Selected Image</string>
+</resources>
