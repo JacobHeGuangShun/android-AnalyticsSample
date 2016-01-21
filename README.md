@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/flurry/android-AnalyticsSample.svg?branch=master)](https://travis-ci.org/flurry/android-AnalyticsSample)
+
 # Flurry Analytics Sample App - Android
 
 This project showcases how Flurry Analytics can be integrated into your Android App. It also demonstrates how you can use Flurry Analytics to get basic insights into your users and app performance. This is a simple app which uses the user’s location to display a feed of public Flickr photos that have been taken in the same area. On clicking on a photo, it will show the user a detailed view of the photo.
