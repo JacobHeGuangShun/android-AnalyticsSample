@@ -19,7 +19,7 @@ import java.util.Date;
 public class FlickrClient {
 
     private AsyncHttpClient client;
-    private final String FLICKR_API_KEY = "[YOUR_FLICKR_API_KEY_HERE]";
+    private final String FLICKR_API_KEY = "f52a757f2b7136566ae47e57e776a615";
     public static final String LOG_TAG = FlickrClient.class.getSimpleName();
     public static final String PHOTO_FEED_URL = "https://api.flickr.com/services/rest/";
 

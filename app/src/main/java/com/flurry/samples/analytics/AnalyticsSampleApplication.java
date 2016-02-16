@@ -9,15 +9,13 @@ import android.util.Log;
 
 import com.flurry.android.FlurryAgent;
 
-import java.util.HashMap;
-
 /**
  * Base class to maintain global application state
  */
-public class FlurryAnalyticsSampleAndroidApp extends Application{
+public class AnalyticsSampleApplication extends Application{
 
-    private static final String FLURRY_APIKEY = "[YOUR_FLURRY_API_KEY_HERE]";
-    public static final String LOG_TAG = FlurryAnalyticsSampleAndroidApp.class.getSimpleName();
+    private static final String FLURRY_APIKEY = "JQVT87W7TGN5W7SWY2FH";
+    public static final String LOG_TAG = AnalyticsSampleApplication.class.getSimpleName();
 
     @Override
     public void onCreate() {
